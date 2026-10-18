@@ -8,5 +8,9 @@
     "slack",
     "web2-platform",
     "messaging-bridge"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/slack-engineering-services-section.git"
+  }
 }
